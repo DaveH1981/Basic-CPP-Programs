@@ -1,4 +1,4 @@
-// An example of a do-while loop.
+// An example of an if-else statement
 #include <iostream>
 #include <cmath>
 #include <string>
